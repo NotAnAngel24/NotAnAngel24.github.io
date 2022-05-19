@@ -1,13 +1,17 @@
-Hi, It's NotAnAngel24 This is a source and complete file of my code. I have made a checklist in regards of making this website using github as a hosting website.
+Hi,
+It's NotAnAngel24
+This is a source and complete file of my code. I have made a checklist in regards of making this website using github as a hosting website.
+1. Initialize repositor - done
+2. Add basic HTML files - done
+3. Create or initialize HTML - done
+4. Add and create basic CSS or initialize - 
+5. Apply and add css rules to HTML contents or code -
+6. Fix the problem syntax issues in HTML by examining the files through problems terminal.-
+7. Finish Bio about section -
+8. Add javascript event listeners -
+9. Adjust styling for new HTML layout -
+10. Finish website
 
-Initialize repositor - done
-Add basic HTML files - done
-Create or initialize HTML - done
-Add and create basic CSS or initialize -
-Apply and add css rules to HTML contents or code -
-Fix the problem syntax issues in HTML by examining the files through problems terminal.-
-Finish Bio about section -
-Add javascript event listeners -
-Adjust styling for new HTML layout -
-Finish website
+<a target="_blank" href="https://www.youtube.com/watch?v=Onv9nhPIBp0&t=1m2s">Link to YouTube</a>.
+
 # NotAnAngel24.github.io
